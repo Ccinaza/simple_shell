@@ -18,7 +18,7 @@ Flow chart used
 
 ### Authors
 - **Blessing Angus** - (https://github.com/Ccinaza)
-- **Nugboyon** - (https://github.com/Chairman-GNM)
+- **Nugboyon Gangbe** - (https://github.com/Chairman-GNM)
  
 ### Requirements
 
